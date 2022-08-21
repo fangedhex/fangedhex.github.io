@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Debian Network configuration
+title: Linux Networking Configuration
 date: 2022-08-17 16:45 +0200
+categories: [linux,networking]
 ---
 
 # Configure a static IP
