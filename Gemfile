@@ -23,3 +23,6 @@ gem "webrick", "~> 1.7"
 
 # Compose (helper for creating posts)
 gem 'jekyll-compose', group: [:jekyll_plugins]
+
+# Transform external link to open in new tab automatically
+gem 'jekyll-target-blank', group: [:jekyll_plugins]
