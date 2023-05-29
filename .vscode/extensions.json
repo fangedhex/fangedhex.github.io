@@ -1,0 +1,7 @@
+{
+    "recommendations": [
+        "ginfuru.ginfuru-vscode-jekyll-syntax",
+        "ginfuru.vscode-jekyll-snippets",
+        "dedsec727.jekyll-run"
+    ]
+}

@@ -2,6 +2,7 @@
 layout: post
 title: Having fun with Stable Diffusion
 date: 2023-04-13 15:22 +0200
+categories: [ai, stable-diffusion]
 ---
 
 I don't post that often on my website because I didn't have anything to write. But recently, I picked up Stable Diffusion to generate some images for the fun. I started with okay stuff and learn a lot about the prompts I can use to have almost perfect results.
